@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\SmallShooter.h(16,10): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\SmallShooter.h(18,14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\DiagonalShooter.h(18,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\DiagonalShooter.h(20,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\CosinusShooter.h(18,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\CosinusShooter.h(20,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '../../src/ShoothemUp/main.cpp')
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(377,38): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(379,39): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(413,20): error C2039: 'Shoots' n'est pas membre de 'std::vector<SmallShooter,std::allocator<SmallShooter>>'
+      C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(107,1):
+      voir la déclaration de 'std::vector<SmallShooter,std::allocator<SmallShooter>>'
+  
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(421,40): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(423,41): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\mblanc-tailleur\Downloads\lyo-1-amstrad-s1p6-05-main\lyo-1-amstrad-s1p6-05-main\ShoothemUp\src\ShoothemUp\main.cpp(587,19): warning C4244: 'argument' : conversion de 'float' en 'Uint32', perte possible de données
