@@ -1,0 +1,24 @@
+{
+    "projects": {
+      "ShoothemUp": {
+        "additionalDependencies": [
+          "SDL2.lib",
+          "SDL2main.lib"
+        ],
+        "additionalIncludeDirectories": [ "../../lib/SDL2/include" ],
+        "additionalLibraryDirectories": [ "../../lib/SDL2/lib/x64" ],
+        "dependencies": [],
+        "dependents": [],
+        "guid": "70A2795C-7ADA-26D1-4747-17C473DF0D45",
+        "lib": false,
+        "pch": false,
+        "preprocessorDefinitions": [],
+        "vcpkg": false,
+        "window": false
+      }
+    },
+    "solution_guid": "41191E80-5D56-4920-4493-2EB6500B2D43",
+    "solution_name": "ShoothemUp",
+    "startup_project": "ShoothemUp",
+    "version": "1.17.4"
+}
